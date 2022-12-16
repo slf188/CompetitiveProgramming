@@ -4,6 +4,7 @@ This repo contains all the competitive programming questions I've solved so far 
 The project contains solutions to problems of each of the platforms used. I'm looking forward to adding new platforms in the future.
 
 ## Resources
+* [Advent of Code](https://adventofcode.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [LeetCode](https://leetcode.com/)
 * [Codeforces](https://codeforces.com/)
