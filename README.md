@@ -1,7 +1,9 @@
 # CompetitiveProgramming
 This repo contains all the competitive programming questions I've solved so far and their solutions.
 
-The project contains solutions to problems of each of the platforms used. I'm looking forward to adding new platforms in the future.
+The project contains solutions to problems of each of the platforms used. 
+
+I'm looking forward to adding new platforms in the future.
 
 ## Resources
 * [Advent of Code](https://adventofcode.com/)
